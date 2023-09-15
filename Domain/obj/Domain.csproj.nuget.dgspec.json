@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Domain\\Domain.csproj": {}
+    "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Domain\\Domain.csproj": {
+    "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\manir\\.nuget\\packages\\",
-        "outputPath": "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Domain\\obj\\",
+        "outputPath": "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

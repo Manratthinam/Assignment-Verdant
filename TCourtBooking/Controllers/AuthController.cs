@@ -31,6 +31,9 @@ namespace TCourtBooking.Controllers
         [HttpPost]
         public async Task<IActionResult> LogIn([FromBody] LogInEntity login)
         {
+            if(!ModelState.IsValid) {
+                return BadRequest("check your email and password");
+            }
             try
             {
                 var user = await Mediator.Send(new CheckUserExistQuery(login.Email));

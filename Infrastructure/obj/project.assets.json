@@ -1190,11 +1190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\manir\\.nuget\\packages\\",
-      "outputPath": "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Infrastructure\\obj\\",
+      "outputPath": "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1216,8 +1216,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Application\\Application.csproj": {
-              "projectPath": "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Application\\Application.csproj"
+            "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Application\\Application.csproj": {
+              "projectPath": "D:\\Dot Net\\Verdant assignment\\Assignment-Verdant\\Application\\Application.csproj"
             }
           }
         }
