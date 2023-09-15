@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RT3jJCHIi8pGm0OmMgoHM93mfQe5NOWPOdkha8Eor2ko81oLTe2EhzdUGzUdnxkA8xKj0lqV9Ejz2Xe+DV4xsg==",
+  "success": true,
+  "projectFilePath": "D:\\Dot Net\\Verdant assignment\\TCourtBooking\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manir\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\manir\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\manir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
